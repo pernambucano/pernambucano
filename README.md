@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pernambucano, but you can call me Paulo too!</h1>
 <h3 align="center">I'm a Full-Stack developer from Brazil, who loves to learn new stuff</h3>
 
-- 🌱 I’m currently learning more about **Typescript, Refactoring**
+- 🌱 I’m currently learning more about **Typescript, and Refactoring**
 
 - 💬 Ask me about **Rails, Ember, and TDD** 
 
