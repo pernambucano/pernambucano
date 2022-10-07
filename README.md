@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm "Pernambucano", but you can call me "Paulo" too!</h1>
+<h1 align="center">Hi 👋, I'm Pernambucano, but you can call me Paulo too!</h1>
 <h3 align="center">A passionate Full-Stack developer from Brazil</h3>
 
 - 🌱 I’m currently learning more about **Typescript, Refactoring, and TDD**
